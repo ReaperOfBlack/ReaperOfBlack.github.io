@@ -1,0 +1,84 @@
+baseURL = ""
+languageCode = "us-en"
+title = "Naruto Senki"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Site Menus
+[menu]
+
+# Navbar Menus
+[[menu.nav]]
+    name    = "关于"
+    url     = "/about"
+    weight  = 2
+[[menu.nav]]
+    name    = "更新日志"
+    url     = "/service"
+    weight  = 3
+[[menu.nav]]
+    name    = "画廊"
+    url     = "/gallery"
+    weight  = 4
+[[menu.nav]]
+    name    = "博客"
+    url     = "/blog"
+    weight  = 5
+[[menu.nav]]
+    name    = "联系"
+    url     = "/contact"
+    weight  = 6
+
+# Site Params
+[params]
+    home = "主页"
+    logo = "images/Naruto_logo-1.png"
+    dateFormat = "10 September 2018"
+
+# Banner Section
+[params.banner]
+    enable  = true
+    bgImage = "images/Naruto_logo.png"
+    heading = "Naruto Senki Welcome to you"
+    description = "这是一个让我久久不能忘怀的..."
+    btn     = true
+    btnText = "获得更多"
+    btnURL  = "一篇关于Naruto Senki文章"
+    [[params.banner.flipText]]
+        title   = "设计"
+    [[params.banner.flipText]]
+        title   = "开发"
+    [[params.banner.flipText]]
+        title   = "创意"
+    [[params.banner.flipText]]
+        title   = "逐梦"
+
+# Homepage About Section
+[params.about]
+    enable  = true
+    title   = "关于Naruto Senki"
+    content = "你好，我是来自中国的一枚大学生，业余自学Unity， 我什么学位也没有（当然家里也没有矿），就是一条咸鱼，但是...<br> <br>咸鱼也要有梦想！"
+    image   = "images/about/about.jpg"
+
+# Call to Action
+[params.cta]
+    enable  = true
+    title   = "您有什么好的创意或建议？"
+    content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+    btnText = "联系我"
+    btnURL  = "/contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+    enable  = true
+    title   = "最新作品"
+    subtitle= "这里有来自世界各地创作者分享的作品..."
+
+# Feature Product Section
+[params.featureProduct]
+    enable  = true
+    title   = "未来计划"
+    subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+
+    
