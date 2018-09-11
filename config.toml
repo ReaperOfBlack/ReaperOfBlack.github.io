@@ -30,7 +30,7 @@ title = "Naruto Senki | Responsive Multipurpose Bootstrap Hugo Template"
 
 # Site Params
 [params]
-    home = "主页"
+    home = "Home"
     logo = "images/Naruto_logo-1.png"
     dateFormat = "10 September 2018"
 
