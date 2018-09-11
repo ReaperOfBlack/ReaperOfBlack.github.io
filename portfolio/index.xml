@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolios on Naruto Senki</title>
+    <title>Portfolios on Naruto Senki | Responsive Multipurpose Bootstrap Hugo Template</title>
     <link>/portfolio/</link>
-    <description>Recent content in Portfolios on Naruto Senki</description>
+    <description>Recent content in Portfolios on Naruto Senki | Responsive Multipurpose Bootstrap Hugo Template</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 12 Jul 2018 16:59:54 +0600</lastBuildDate>
     
 	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
