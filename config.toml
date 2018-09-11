@@ -1,8 +1,6 @@
 baseURL = ""
-languageCode = "us-en"
+languageCode = "zh-CN"
 title = "Naruto Senki"
-
-# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
 # Site Menus
 [menu]
@@ -38,7 +36,7 @@ title = "Naruto Senki"
 # Banner Section
 [params.banner]
     enable  = true
-    bgImage = "images/Naruto_logo.png"
+    bgImage = "images/bg-2.png"
     heading = "Naruto Senki Welcome to you"
     description = "这是一个让我久久不能忘怀的..."
     btn     = true
