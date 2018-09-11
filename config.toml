@@ -1,4 +1,4 @@
-languageCode = "en-us"
+languageCode = "cn-zh"
 title = "Naruto Senki | Responsive Multipurpose Bootstrap Hugo Template"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -8,7 +8,7 @@ title = "Naruto Senki | Responsive Multipurpose Bootstrap Hugo Template"
 
 # Navbar Menus
 [[menu.nav]]
-    name    = "关于"
+    name    = "About"
     url     = "/about"
     weight  = 2
 [[menu.nav]]
