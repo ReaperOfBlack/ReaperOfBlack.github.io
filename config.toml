@@ -1,29 +1,28 @@
-languageCode = "zh-cmn-Hans"
+languageCode = "en-us"
 title = "Naruto Senki | Responsive Multipurpose Bootstrap Hugo Template"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
 # Site Menus
 [menu]
-
-# Navbar Menus
-[[menu.nav]]
+	# Navbar Menus
+	[[menu.nav]]
     name    = "关于"
     url     = "/about"
     weight  = 2
-[[menu.nav]]
+    [[menu.nav]]
     name    = "更新日志"
     url     = "/service"
     weight  = 3
-[[menu.nav]]
+    [[menu.nav]]
     name    = "画廊"
     url     = "/gallery"
     weight  = 4
-[[menu.nav]]
+    [[menu.nav]]
     name    = "博客"
     url     = "/blog"
     weight  = 5
-[[menu.nav]]
+    [[menu.nav]]
     name    = "联系"
     url     = "/contact"
     weight  = 6
@@ -33,52 +32,43 @@ title = "Naruto Senki | Responsive Multipurpose Bootstrap Hugo Template"
     home = "主页"
     logo = "images/Naruto_logo-1.png"
     dateFormat = "10 September 2018"
-
-# Banner Section
-[params.banner]
+    # Banner Section
+    [params.banner]
     enable  = true
     bgImage = "images/bg-2.png"
     heading = "Naruto Senki Welcome to you"
     description = "这是一个让我久久不能忘怀的..."
     btn     = true
     btnText = "更多信息"
-    btnURL  = "/blog"
-
-[[params.banner.flipText]]
+    btnURL  = "https://narutosenki.top/blog/"
+    [[params.banner.flipText]]
     title   = "设计"
-[[params.banner.flipText]]
+    [[params.banner.flipText]]
     title   = "开发"
-[[params.banner.flipText]]
+    [[params.banner.flipText]]
     title   = "创意"
-[[params.banner.flipText]]
+    [[params.banner.flipText]]
     title   = "逐梦"	
-
-# Homepage About Section
-[params.about]
+    # Homepage About Section
+    [params.about]
     enable  = true
     title   = "ABOUT ME"
     content = "Hello, I’m a ...<br><br>But I"
     image   = "images/about/about.jpg"
-
-# Call to Action
-[params.cta]
+    # Call to Action
+    [params.cta]
     enable  = true
     title   = "您有什么好的创意或建议？"
     content = "You can contact me，<br>..."
     btnText = "Contact with me"
     btnURL  = "/contact"
-
-# Portfolio Section On Homepage
-[params.portfolio]
+    # Portfolio Section On Homepage
+    [params.portfolio]
     enable  = true
     title   = "最新作品"
     subtitle= "这里有来自世界各地创作者分享的作品..."
-
-# Feature Product Section
-[params.featureProduct]
+    # Feature Product Section
+    [params.featureProduct]
     enable  = true
     title   = "未来规划"
     subtitle= "...<br>..."
-
-
-    
