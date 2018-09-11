@@ -1,79 +1,81 @@
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Naruto Senki | Responsive Multipurpose Bootstrap Hugo Template"
+title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
+theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
 # Site Menus
 [menu]
-	# Navbar Menus
-	[[menu.nav]]
-    name    = "关于"
-    url     = "/about"
-    weight  = 2
+    # Navbar Menus
     [[menu.nav]]
-    name    = "更新日志"
-    url     = "/service"
-    weight  = 3
+        name    = "About"
+        url     = "/about"
+        weight  = 2
     [[menu.nav]]
-    name    = "画廊"
-    url     = "/gallery"
-    weight  = 4
+        name    = "Service"
+        url     = "/service"
+        weight  = 3
     [[menu.nav]]
-    name    = "博客"
-    url     = "/blog"
-    weight  = 5
+        name    = "Gallery"
+        url     = "/gallery"
+        weight  = 4
     [[menu.nav]]
-    name    = "联系"
-    url     = "/contact"
-    weight  = 6
+        name    = "Blog"
+        url     = "/blog"
+        weight  = 5
+    [[menu.nav]]
+        name    = "Contact"
+        url     = "/contact"
+        weight  = 6
 
 # Site Params
 [params]
-    home = "主页"
-    logo = "images/Naruto_logo-1.png"
-    dateFormat = "10 September 2018"
+    home = "Home"
+    logo = "images/logo.png"
+    dateFormat = "6 January 2006"
 
     # Banner Section
     [params.banner]
-    enable  = true
-    bgImage = "images/bg-2.png"
-    heading = "Naruto Senki Welcome to you"
-    description = "这是一个让我久久不能忘怀的..."
-    btn     = true
-    btnText = "更多信息"
-    btnURL  = "https://narutosenki.top/blog/"
-    [[params.banner.flipText]]
-    title   = "设计"
-    [[params.banner.flipText]]
-    title   = "开发"
-    [[params.banner.flipText]]
-    title   = "创意"
-    [[params.banner.flipText]]
-    title   = "逐梦"	
-    
+        enable  = true
+        bgImage = "images/slider.jpg"
+        heading = "HI, MY NAME IS JONATHON & I AM A"
+        description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
+        btn     = true
+        btnText = "Download More"
+        btnURL  = "https://themefisher.com/"
+        [[params.banner.flipText]]
+            title   = "DESIGNER"
+        [[params.banner.flipText]]
+            title   = "DEVELOPER"
+        [[params.banner.flipText]]
+            title   = "FATHER"
+
     # Homepage About Section
     [params.about]
-    enable  = true
-    title   = "ABOUT ME"
-    content = "Hello, I’m a ...<br><br>But I"
-    image   = "images/about/about.jpg"
-    
+        enable  = true
+        title   = "ABOUT ME"
+        content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+        image   = "images/about/about.jpg"
+
     # Call to Action
     [params.cta]
-    enable  = true
-    title   = "您有什么好的创意或建议？"
-    content = "You can contact me，<br>..."
-    btnText = "Contact with me"
-    btnURL  = "/contact"
-    
+        enable  = true
+        title   = "SO WHAT YOU THINK ?"
+        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+        btnText = "Contact with me"
+        btnURL  = "/contact"
+
     # Portfolio Section On Homepage
     [params.portfolio]
-    enable  = true
-    title   = "最新作品"
-    subtitle= "这里有来自世界各地创作者分享的作品..."
-    
+        enable  = true
+        title   = "Latest Works"
+        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
     # Feature Product Section
     [params.featureProduct]
-    enable  = true
-    title   = "未来规划"
-    subtitle= "..."
+        enable  = true
+        title   = "SOME OF OUR FEATURES WORKS"
+        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+    
