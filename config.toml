@@ -8,7 +8,7 @@ title = "Naruto Senki | Responsive Multipurpose Bootstrap Hugo Template"
 
 # Navbar Menus
 [[menu.nav]]
-    name    = "About"
+    name    = "关于"
     url     = "/about"
     weight  = 2
 [[menu.nav]]
@@ -30,7 +30,7 @@ title = "Naruto Senki | Responsive Multipurpose Bootstrap Hugo Template"
 
 # Site Params
 [params]
-    home = "Home"
+    home = "主页"
     logo = "images/Naruto_logo-1.png"
     dateFormat = "10 September 2018"
 
