@@ -6,27 +6,27 @@ title = "Naruto Senki | Responsive Multipurpose Bootstrap Hugo Template"
 # Site Menus
 [menu]
 
-    # Navbar Menus
-    [[menu.nav]]
-        name    = "关于"
-        url     = "/about"
-        weight  = 2
-    [[menu.nav]]
-        name    = "更新日志"
-        url     = "/service"
-        weight  = 3
-    [[menu.nav]]
-        name    = "画廊"
-        url     = "/gallery"
-        weight  = 4
-    [[menu.nav]]
-        name    = "博客"
-        url     = "/blog"
-        weight  = 5
-    [[menu.nav]]
-        name    = "联系"
-        url     = "/contact"
-        weight  = 6
+# Navbar Menus
+[[menu.nav]]
+    name    = "关于"
+    url     = "/about"
+    weight  = 2
+[[menu.nav]]
+    name    = "更新日志"
+    url     = "/service"
+    weight  = 3
+[[menu.nav]]
+    name    = "画廊"
+    url     = "/gallery"
+    weight  = 4
+[[menu.nav]]
+    name    = "博客"
+    url     = "/blog"
+    weight  = 5
+[[menu.nav]]
+    name    = "联系"
+    url     = "/contact"
+    weight  = 6
 
 # Site Params
 [params]
@@ -44,14 +44,14 @@ title = "Naruto Senki | Responsive Multipurpose Bootstrap Hugo Template"
     btnText = "更多信息"
     btnURL  = "/blog"
 
-    [[params.banner.flipText]]
-        title   = "设计"
-    [[params.banner.flipText]]
-        title   = "开发"
-    [[params.banner.flipText]]
-        title   = "创意"
-    [[params.banner.flipText]]
-        title   = "逐梦"	
+[[params.banner.flipText]]
+    title   = "设计"
+[[params.banner.flipText]]
+    title   = "开发"
+[[params.banner.flipText]]
+    title   = "创意"
+[[params.banner.flipText]]
+    title   = "逐梦"	
 
 # Homepage About Section
 [params.about]
