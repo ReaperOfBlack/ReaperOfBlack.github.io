@@ -352,10 +352,9 @@
                     <span>
                         <script>document.write(new Date().getFullYear())</script>
                     </span> 设计开发来自于
-                    <a href="https://narutosenki.top" target="_blank">Naruto SENKI.</a>
-                        <span id="sitetime" style="color: #ff0000;"> | 本站勉强运行
-                        <span id="sitetime" style="color: #FF4500;">
-                        <span id="sitetime"></span>
+                    <a href="https://narutosenki.top" target="_blank">Naruto SENKI</a>
+                        
+                        <span id="sitetime" style="color: #896a45;"></span>
                         <script language=javascript>
                             function siteTime(){
                             window.setTimeout("siteTime()", 1000);
@@ -373,7 +372,7 @@
                             var todaySecond = today.getSeconds();
                             
 
-                            var t1 = Date.UTC(2016,12,01,00,00,00); 
+                            var t1 = Date.UTC(2018,9,10,21,48,00); 
                             var t2 = Date.UTC(todayYear,todayMonth,todayDate,todayHour,todayMinute,todaySecond);
                             var diff = t2-t1;
                             var diffYears = Math.floor(diff/years);
@@ -381,10 +380,11 @@
                             var diffHours = Math.floor((diff-(diffYears*365+diffDays)*days)/hours);
                             var diffMinutes = Math.floor((diff-(diffYears*365+diffDays)*days-diffHours*hours)/minutes);
                             var diffSeconds = Math.floor((diff-(diffYears*365+diffDays)*days-diffHours*hours-diffMinutes*minutes)/seconds);
-                            document.getElementById("sitetime").innerHTML=" 已运行"+diffYears+" 年 "+diffDays+" 天 "+diffHours+" 小时 "+diffMinutes+" 分钟 "+diffSeconds+" 秒";
+                            document.getElementById("sitetime").innerHTML=" | 本站勉强运行："+diffYears+" 年 "+diffDays+" 天 "+diffHours+" 小时 "+diffMinutes+" 分钟 "+diffSeconds+" 秒";
                         }
                         siteTime();
                     </script>
+                    
                 </p>
             </div>
             <div class="col-md-8 col-12">总访客
