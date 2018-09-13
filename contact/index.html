@@ -126,30 +126,30 @@
                     <p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">名字、邮箱、留言为必填栏
 </p>
                     <div class="contact-form">
-                        <form id="contact-form" method="post" action="sendmail.php" role="form">
+                        <form id="contact-form" method="#" action="#" role="form">
 
                             <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".6s">
-                                <input type="text" placeholder="您的姓名" class="form-control" name="name" id="name">
+                                <input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
                             </div>
 
                             <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".8s">
-                                <input type="email" placeholder="您的邮箱地址" class="form-control" name="email" id="email">
+                                <input type="email" placeholder="Your Email" class="form-control" name="email" id="email">
                             </div>
 
                             <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1s">
-                                <input type="text" placeholder="电话" class="form-control" name="phone" id="phone">
+                                <input type="text" placeholder="Subject" class="form-control" name="subject" id="subject">
                             </div>
 
                             <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.2s">
-                                <textarea rows="6" placeholder="内容" class="form-control" name="message" id="message"></textarea>
+                                <textarea rows="6" placeholder="Message" class="form-control" name="message" id="message"></textarea>
                             </div>
 
                             <div id="success" class="success">
-                                感谢您的反馈！邮递员正在路上 :)
+                                Thank you. The Mailman is on His Way :)
                             </div>
 
                             <div id="error" class="error">
-                                对不起,不知道发生了什么事。请稍后尝试 :(
+                                Sorry, don't know what happened. Try later :(
                             </div>
 
                             <div id="submit" class="wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.4s">
@@ -171,41 +171,6 @@
                 </div>
             </div>
         </div>
-        <div id="app">
-            <wildfire></wildfire>
-          </div>
-          
-          <script src="https://cdn.jsdelivr.net/npm/vue"></script>
-          
-          <script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js"></script>
-          
-          <link rel="stylesheet" type="text/css" href="https://unpkg.com/wildfire@0.3.8/dist/firebase/static/wildfire.css">
-          
-          <script src="https://unpkg.com/wildfire@0.3.8/dist/firebase/wildfire.min.js"></script>
-          <script type="text/javascript">
-            
-            wildfire.default.install(Vue, {
-              databaseConfig: {
-                apiKey: "AIzaSyD2ZYs1bt0dRtVeKvsoLLMy5YFnohUGJC8",
-                authDomain: "narutosenki-666.firebaseapp.com",
-                databaseURL: "https://narutosenki-666.firebaseio.com",
-                projectId: "narutosenki-666",
-                storageBucket: "narutosenki-666.appspot.com",
-                messagingSenderId: "105679098657"
-              },
-              pageURL: 'https://narutosenki.top/contect',
-              pageTitle: 'Wildfire Demo',
-              theme: 'light',
-              locale: 'zh-CN',
-              defaultAvatarURL: 'https://image.flaticon.com/icons/svg/621/621863.svg'
-            })
-            var app = new Vue({
-              el: '#app',
-              data: {
-                message: 'Hello Vue!'
-              }
-            })
-          </script>
         <div class="row address-details">
             <div class="col-md-3">
                 <div class="address wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".3s">
