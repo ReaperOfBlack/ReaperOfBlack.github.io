@@ -63,15 +63,15 @@
         },
         messages: {
             user_name: {
-                required: "Come on, you have a name don't you?",
-                minlength: "Your name must consist of at least 2 characters"
+                required: "拜托，你有名字吧?",
+                minlength: "你的名字必须至少由两个字符组成"
             },
             email: {
-                required: "Please put your email address",
+                required: "请填写您的电子邮件地址",
             },
             message: {
-                required: "Put some messages here?",
-                minlength: "Your name must consist of at least 2 characters"
+                required: "在这里留言?",
+                minlength: "你的名字必须至少由两个字符组成"
             },
         },
         submitHandler: function (form) {
