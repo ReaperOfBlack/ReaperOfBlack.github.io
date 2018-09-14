@@ -171,44 +171,26 @@
                 </div>
             </div>
         </div>
-        <div class="wildfire">
-            <div id="app">
-              
-              <wildfire></wildfire>
-            </div>
-            
-            <script src="https://cdn.jsdelivr.net/npm/vue"></script>
-            
-            <script src="https://www.gstatic.com/firebasejs/5.5.0/firebase.js"></script>
-            
-            <link rel="stylesheet" type="text/css" href="https://unpkg.com/wildfire@0.3.8/dist/firebase/static/wildfire.css">
-            
-            <script src="https://unpkg.com/wildfire@0.3.8/dist/firebase/wildfire.min.js"></script>
-            <script type="text/javascript">
-              
-              wildfire.default.install(Vue, {
-                databaseConfig: {
-                  apiKey: 'AIzaSyD2ZYs1bt0dRtVeKvsoLLMy5YFnohUGJC8',
-                  authDomain: 'narutosenki-666.firebaseapp.com',
-                  databaseURL: 'https://narutosenki-666.firebaseio.com',
-                  projectId: 'narutosenki-666',
-                  storageBucket: 'narutosenki-666.appspot.com',
-                  messagingSenderId: '105679098657'
-                },
-                pageURL: 'https://narutosenki.top/contect',
-                pageTitle: 'Contect',
-                theme: 'light',
-                locale: 'zh-CN',
-                defaultAvatarURL: 'https://vignette.wikia.nocookie.net/asms/images/7/78/Trollface.svg/revision/latest/scale-to-width-down/603?cb=20110227082419.svg'
-              })
-              var app = new Vue({
-                el: '#app',
-                data: {
-                  message: 'Hello Vue!'
-                }
-              })
-            </script>
-        </div>
+        <div class="wildfire_thread"></div>
+        <script>
+          var wildfireConfig = () => ({
+            useDev: true, 
+            version: '0.5.6', 
+            databaseProvider: 'firebase',
+            databaseConfig: {
+              apiKey: "AIzaSyD2ZYs1bt0dRtVeKvsoLLMy5YFnohUGJC8",
+              authDomain: "narutosenki-666.firebaseapp.com",
+              databaseURL: "https://narutosenki-666.firebaseio.com",
+              projectId: "narutosenki-666",
+              storageBucket: "narutosenki-666.appspot.com",
+              messagingSenderId: "105679098657"
+            },
+            theme: 'light',
+            locale: 'zh-cn',
+            defaultAvatarURL: 'https://vignette.wikia.nocookie.net/asms/images/7/78/Trollface.svg/revision/latest/scale-to-width-down/603?cb=20110227082419'
+          })
+          </script> 
+        <script src="https://unpkg.com/wildfire-comment@1.2.5"></script>
         <div class="row address-details">
             <div class="col-md-3">
                 <div class="address wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".3s">
