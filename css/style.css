@@ -853,19 +853,19 @@ article {
   transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
 }
 
-#contact-section .address, #contact-section .email, #contact-section .phone {
+#contact-section .address, #contact-section .email, #contact-section .qq {
   text-align: center;
   background: #F7F7F7;
   padding: 20px 0 40px 0;
   margin-bottom: 20px;
 }
 
-#contact-section .address i, #contact-section .email i, #contact-section .phone i {
+#contact-section .address i, #contact-section .email i, #contact-section .qq i {
   font-size: 45px;
   color: #02bdd5;
 }
 
-#contact-section .address h5, #contact-section .email h5, #contact-section .phone h5 {
+#contact-section .address h5, #contact-section .email h5, #contact-section .qq h5 {
   font-size: 16px;
   line-height: 1.4;
 }
