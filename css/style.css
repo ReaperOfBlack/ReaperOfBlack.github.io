@@ -653,7 +653,7 @@ figure figcaption p {
   transition: all linear .2s;
 }
 
-#blog-full-width {
+#news-full-width {
   padding: 40px 0 80px;
 }
 
@@ -661,36 +661,36 @@ article {
   padding: 30px 0;
 }
 
-.blog-content h2 {
+.news-content h2 {
   font-family: 'Roboto', sans-serif;
 }
 
-.blog-content h2 a {
+.news-content h2 a {
   color: #444;
   font-weight: 400;
   font-size: 30px;
 }
 
-.blog-content .blog-meta {
+.news-content .news-meta {
   color: #9a9a9a;
   font-weight: 300;
   margin-bottom: 25px;
 }
 
-.blog-content .blog-meta span:after {
+.news-content .news-meta span:after {
   content: '/';
   padding: 0 3px 0 6px;
 }
 
-.blog-content .blog-meta a {
+.news-content .news-meta a {
   color: #acacac;
 }
 
-.blog-content .blog-meta p {
+.news-content .news-meta p {
   margin-top: 20px;
 }
 
-.blog-content .btn-details {
+.news-content .btn-details {
   color: #02bdd5;
   padding: 0;
   background: #02bdd5;
@@ -702,7 +702,7 @@ article {
   box-shadow: 0px 0px 0px 1px #02bdd5;
 }
 
-.blog-post-image {
+.news-post-image {
   margin-top: 30px;
   margin-bottom: 20px;
 }
