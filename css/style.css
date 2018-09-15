@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Glegoo);
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(http://fonts.googleapis.com/css?family=Glegoo);
 body {
   font-family: "Roboto", sans-serif;
 }
@@ -1193,17 +1193,17 @@ article {
   color: #fff;
 }
 
-.download-page .download-parts .block {
+.service-page .service-parts .block {
   margin-bottom: 40px;
   text-align: center;
 }
 
-.download-page .download-parts .block i {
+.service-page .service-parts .block i {
   font-size: 35px;
   color: #02bdd5;
 }
 
-.download-page .download-parts .block p {
+.service-page .service-parts .block p {
   padding: 0 8px;
   font-size: 14px;
   color: #777;
