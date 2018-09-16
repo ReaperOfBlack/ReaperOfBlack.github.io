@@ -6,19 +6,10 @@
     <description>Recent content on Naruto SENKI | 目前处于开发测试阶段</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2018 16:50:55 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 10 Sep 2018 23:40:30 +0800</lastBuildDate>
     
 	<atom:link href="https://narutosenki.top/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>购物袋概念</title>
-      <link>https://narutosenki.top/portfolio/shopping-bag-concept/</link>
-      <pubDate>Wed, 12 Sep 2018 16:50:55 +0600</pubDate>
-      
-      <guid>https://narutosenki.top/portfolio/shopping-bag-concept/</guid>
-      <description>Consectur in Bibendum Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
     
     <item>
       <title>建站简介</title>
@@ -26,7 +17,9 @@
       <pubDate>Mon, 10 Sep 2018 23:40:30 +0800</pubDate>
       
       <guid>https://narutosenki.top/news/new-site-new-world/</guid>
-      <description></description>
+      <description>历(B)经(U)艰(G)险  耗时近5*24h勉强搭出网站，几经折腾终于把模板改成差不多样式，依旧存在大量BUG，由于本人不是专业CSS、JS、HTML、jQurey、bootstrap、animate、jquery.fancybox、jquery.form、jquery.validate、hover、ionicons、form-validation、wow……的‘修改’工程师，也不太会使用，只能尽量美化网页布局。
+ 部分控件还要从其他的网页模板拆分出来，对我而言极耗时间，还有很多BUG修复，一一比对进行修复，或者由于css文件冲突，不能加入漂亮的动画……
+目前 NARUTO SENKI 网站开发只能就此作罢（当然这是不可能的），还有更多开发工作等着我，偶尔更新修复bug、图片、加点动画特效。</description>
     </item>
     
     <item>
@@ -48,20 +41,29 @@
     </item>
     
     <item>
+      <title>瓶子模型</title>
+      <link>https://narutosenki.top/portfolio/bottle-mockup/</link>
+      <pubDate>Thu, 12 Jul 2018 16:57:54 +0600</pubDate>
+      
+      <guid>https://narutosenki.top/portfolio/bottle-mockup/</guid>
+      <description>Consectur in Bibendum Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>购物袋概念</title>
+      <link>https://narutosenki.top/portfolio/shopping-bag-concept/</link>
+      <pubDate>Thu, 12 Jul 2018 16:57:54 +0600</pubDate>
+      
+      <guid>https://narutosenki.top/portfolio/shopping-bag-concept/</guid>
+      <description>Consectur in Bibendum Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
       <title>表格设计</title>
       <link>https://narutosenki.top/portfolio/a/</link>
       <pubDate>Thu, 12 Jul 2018 16:56:54 +0600</pubDate>
       
       <guid>https://narutosenki.top/portfolio/a/</guid>
-      <description>Consectur in Bibendum Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>瓶子模型</title>
-      <link>https://narutosenki.top/portfolio/bottle-mockup/</link>
-      <pubDate>Thu, 12 Jul 2018 16:54:54 +0600</pubDate>
-      
-      <guid>https://narutosenki.top/portfolio/bottle-mockup/</guid>
       <description>Consectur in Bibendum Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
