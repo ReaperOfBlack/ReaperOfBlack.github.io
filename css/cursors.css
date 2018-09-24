@@ -1,0 +1,19 @@
+body {
+    cursor: url('./images/material-design-cursors/.cur'), account;
+    cursor: url('./images/material-design-cursors/.cur'), alternate;
+    cursor: url('./images/material-design-cursors/.ani'), busy;
+    cursor: url('./images/material-design-cursors/.cur'), cross;
+    cursor: url('./images/material-design-cursors/.cur'), dgn1;
+    cursor: url('./images/material-design-cursors/.cur'), dgn2;
+    cursor: url('./images/material-design-cursors/.cur'), handwriting;
+    cursor: url('./images/material-design-cursors/.cur'), help;
+    cursor: url('./images/material-design-cursors/.cur'), horz;
+    cursor: url('./images/material-design-cursors/.cur'), link;
+    cursor: url('./images/material-design-cursors/.cur'), move;
+    cursor: url('./images/material-design-cursors/.cur'), place;
+    cursor: url('./images/material-design-cursors/.cur'), pointer;
+    cursor: url('./images/material-design-cursors/.cur'), text;
+    cursor: url('./images/material-design-cursors/.cur'), unavailiable;
+    cursor: url('./images/material-design-cursors/.cur'), vert;
+    cursor: url('./images/material-design-cursors/.ani'), poworkinter;
+}
