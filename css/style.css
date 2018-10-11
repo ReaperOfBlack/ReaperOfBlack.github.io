@@ -226,11 +226,12 @@ a:hover {
 }
 
 .dropdown-menu {
-  background: #222222;
+  background:rgba(34, 34, 34, 1);
   border: 0;
   border-radius: 0;
   padding: 15px;
-  box-shadow: none;
+  min-width: 90px;
+  box-shadow: 0px 2px 6px 0px rgba(255, 40, 0, 0.3);
   display: block;
   opacity: 0;
   z-index: 1;
@@ -249,14 +250,14 @@ a:hover {
 }
 
 .dropdown-item {
-  color: #fff;
-  display: block;
-  font-size: 14px;
-  font-weight: 500;
-  line-height: normal;
-  text-decoration: none;
-  padding: 8px 0;
-  transition: .3s all;
+    color: #fff;
+    display: block;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+    padding: 8px 0;
+    transition: .3s all;
 }
 
 .dropdown-item:not(:last-child) {
