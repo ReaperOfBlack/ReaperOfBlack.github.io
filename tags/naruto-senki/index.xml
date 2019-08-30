@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Naruto Senki on Naruto SENKI | 目前处于开发测试阶段</title>
-    <link>https://narutosenki.top/tags/naruto-senki/</link>
-    <description>Recent content in Naruto Senki on Naruto SENKI | 目前处于开发测试阶段</description>
+    <title>Naruto SENKI on Naruto SENKI | 目前处于开发测试阶段</title>
+    <link>http://narutosenki.666.moda/tags/naruto-senki/</link>
+    <description>Recent content in Naruto SENKI on Naruto SENKI | 目前处于开发测试阶段</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 10 Sep 2018 23:40:30 +0800</lastBuildDate>
     
-	<atom:link href="https://narutosenki.top/tags/naruto-senki/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://narutosenki.666.moda/tags/naruto-senki/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>建站简介</title>
-      <link>https://narutosenki.top/news/new-site-new-world/</link>
+      <link>http://narutosenki.666.moda/news/new-site-new-world/</link>
       <pubDate>Mon, 10 Sep 2018 23:40:30 +0800</pubDate>
       
-      <guid>https://narutosenki.top/news/new-site-new-world/</guid>
+      <guid>http://narutosenki.666.moda/news/new-site-new-world/</guid>
       <description> 历(B)经(U)艰(G)险  耗时近5*24h勉强搭出网站，几经折腾终于把模板改成差不多样式，依旧存在大量BUG，由于本人不是专业CSS、JS、HTML、jQurey、bootstrap……，只能尽力。
   2018/9/10: 目前 NARUTO SENKI 网站开发只能就此作罢（当然这是不可能的），还有更多开发工作等着我，偶尔修复和更新一些bug&amp;hellip;..
  未完待续&amp;hellip;

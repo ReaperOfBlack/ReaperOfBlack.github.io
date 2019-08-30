@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gallery on Naruto SENKI | 目前处于开发测试阶段</title>
-    <link>https://narutosenki.top/gallery/</link>
+    <link>http://narutosenki.666.moda/gallery/</link>
     <description>Recent content in Gallery on Naruto SENKI | 目前处于开发测试阶段</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 14 Jul 2018 16:19:08 +0600</lastBuildDate>
     
-	<atom:link href="https://narutosenki.top/gallery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://narutosenki.666.moda/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
