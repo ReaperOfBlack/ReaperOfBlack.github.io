@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gallery on Naruto SENKI | 目前处于开发测试阶段</title>
-    <link>http://narutosenki.666.moda/gallery/</link>
-    <description>Recent content in Gallery on Naruto SENKI | 目前处于开发测试阶段</description>
+    <title>Gallery on Naruto SENKI: Re | 目前处于开发测试阶段</title>
+    <link>https://naruto-senki-re.naruto.re/gallery/</link>
+    <description>Recent content in Gallery on Naruto SENKI: Re | 目前处于开发测试阶段</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 14 Jul 2018 16:19:08 +0600</lastBuildDate>
     
-	<atom:link href="http://narutosenki.666.moda/gallery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://naruto-senki-re.naruto.re/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
