@@ -1,5 +1,0 @@
-- name: Naruto Senki - V2
-  uses: peaceiris/actions-hugo@v2.4.13
-  with:
-    hugo-version: # optional, default is latest
-    extended: # optional, default is false
